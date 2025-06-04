@@ -1,2 +1,2 @@
 # atm-banking
-Creation of an atm based baking System 
+Creation of an atm based banking System 
